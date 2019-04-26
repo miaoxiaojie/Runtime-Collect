@@ -24,7 +24,7 @@
     self.title = @"统计";
     [self p_setRightBarButton];
     [self P_drawViews];
-    NSLog(@"Test");
+   
 }
 
 -(void)p_setRightBarButton{
